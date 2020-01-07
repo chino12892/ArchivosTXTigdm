@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArchivosTXTigdm</string>
+    <string name="Lblingresa">ingresa tu nombre</string>
+    <string name="btnescribir">Escribir</string>
+    <string name="archivo">informacion del archivo</string>
+    <string name="btnmostrar">mostrar informacion</string>
+</resources>
